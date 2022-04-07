@@ -141,3 +141,4 @@ where dea.continent is not null
 ```
 
 From here, I pulled the cleaned data to Tableau and created a dashboard to showcase my findings.
+https://public.tableau.com/app/profile/angel.gama.diaz/viz/CovidDeath…
